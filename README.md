@@ -1,6 +1,8 @@
-Welcome to the Online Apparel Shop project! This web application is designed to offer an engaging and intuitive shopping experience for users looking to purchase apparel online. Built with React JS, this project incorporates modern web development practices to ensure a seamless and efficient user interaction.
+# Online Apparel Shop Project! 
 
-#Features
+This web application is designed to offer an engaging and intuitive shopping experience for users looking to purchase apparel online. Built with React JS, this project incorporates modern web development practices to ensure a seamless and efficient user interaction.
+
+## Features
 
 Our Online Apparel Shop includes a variety of features to enhance the user experience:
 
